@@ -1,0 +1,6 @@
+# https://git-scm.com/docs/gitignore
+
+# Block adding compiled Python bytecode
+# https://stackoverflow.com/questions/8822335/what-do-the-python-file-extensions-pyc-pyd-pyo-stand-for
+*.pyc
+*.pyo
